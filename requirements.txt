@@ -1,0 +1,8 @@
+# List of dependencies for the project
+tensorflow>=2.9
+numpy
+matplotlib
+seaborn
+jupyter
+scikit-learn
+pyod
